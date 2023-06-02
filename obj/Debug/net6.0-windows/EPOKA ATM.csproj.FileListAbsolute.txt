@@ -1,0 +1,86 @@
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\bin\Debug\net6.0-windows\EPOKA ATM.exe
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\bin\Debug\net6.0-windows\EPOKA ATM.deps.json
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\bin\Debug\net6.0-windows\EPOKA ATM.runtimeconfig.json
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\bin\Debug\net6.0-windows\EPOKA ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\bin\Debug\net6.0-windows\EPOKA ATM.pdb
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\Loading_form.Form1.resources
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\Loading_form.Properties.Resources.resources
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.AssemblyInfo.cs
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\refint\EPOKA ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.pdb
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\EPOKA ATM.genruntimeconfig.cache
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\ref\EPOKA ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\Loading_form.login.resources
+C:\Users\USER\Desktop\EPOKA ATM\Loading-form\Loading-form\obj\Debug\net6.0-windows\Loading_form.signup.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Epoka ATM.exe
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Epoka ATM.deps.json
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Epoka ATM.runtimeconfig.json
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Epoka ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Epoka ATM.pdb
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.Form1.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.login.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.Properties.Resources.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.signup.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.AssemblyInfo.cs
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\refint\Epoka ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.pdb
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.genruntimeconfig.cache
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\ref\Epoka ATM.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Epoka ATM.dll.config
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Epoka ATM.csproj.CopyComplete
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\sq\Epoka ATM.resources.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.signup.sq.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\sq\Epoka ATM.resources.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\en-US\Epoka ATM.resources.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.login.en-US.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.login.sq.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\en-US\Epoka ATM.resources.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\sq-AL\Epoka ATM.resources.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.login.sq-AL.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\sq-AL\Epoka ATM.resources.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.main.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.balance.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.changePin.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.deposit.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.fastcash.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.withdrawal.resources
+C:\Users\USER\Desktop\EPOKA ATM\Epoka ATM\Epoka ATM\obj\Debug\net6.0-windows\Loading_form.transaction.resources
